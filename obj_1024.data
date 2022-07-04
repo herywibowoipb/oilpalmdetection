@@ -1,0 +1,5 @@
+classes = 1
+train = /content/darknet/data/train.txt
+valid = /content/darknet/data/test.txt
+names = /content/darknet/data/obj_1024.names
+backup = /content/drive/MyDrive/yoloshared/config/yolov3sawitconvo74/backup200x200m_final_random0_1024_validation
